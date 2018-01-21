@@ -1,0 +1,6 @@
+ ; 8h00-10h00; 10h00-12h00; 14h00-16h00; 16h00-18h00
+Lundi;IHM : Batchakui(S0);IHM : Batchakui(S1);Management : Fouda(S0);Management : Fouda(S1)
+Mardi;Grammaires : Kouamou(S0);Grammaires : Kouamou(S1);Programmation Web : Kenfack(S0);IA : Mbouh(S0)
+Mercredi;Programmation Web : Kenfack(S1);Electronique : Chana(S0)
+Jeudi;Electronique : Chana(S1);Réseaux : Djotio(S0);Réseaux : Djotio(S1);Anglais : Nashipu(S0)
+Vendredi;Anglais : Nashipu(S1);IA : Mbouh(S1);Analyse des données : Toussile(S0);Analyse des données : Toussile(S1)
